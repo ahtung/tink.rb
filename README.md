@@ -1,6 +1,6 @@
 # Tink
 
-[![Build Status](https://travis-ci.org/ahtung/tink.rb.svg?branch=master)](https://travis-ci.org/ahtung/tink.rb)
+[![Build Status](https://travis-ci.com/ahtung/tink.rb.svg?branch=master)](https://travis-ci.com/ahtung/tink.rb)
 [![Gem Version](https://badge.fury.io/rb/tink.rb.svg)](https://badge.fury.io/rb/tink.rb)
 [![Maintainability](https://api.codeclimate.com/v1/badges/8e9c963093297534c4bb/maintainability)](https://codeclimate.com/github/ahtung/tink.rb/maintainability)
 [![Coverage Status](https://coveralls.io/repos/github/ahtung/tink.rb/badge.svg?branch=master)](https://coveralls.io/github/ahtung/tink.rb?branch=master)
